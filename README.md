@@ -1,2 +1,3 @@
-# mirageglobe-www
-static site of mirageglobe.com
+# mirageglobe
+
+this is the static site of mirageglobe.com
