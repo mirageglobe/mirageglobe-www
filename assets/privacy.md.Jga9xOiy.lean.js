@@ -1,0 +1,1 @@
+import{_ as o,c as a,o as e,V as t}from"./chunks/framework.3e32Qaj4.js";const d=JSON.parse('{"title":"Introduction","description":"","frontmatter":{},"headers":[],"relativePath":"privacy.md","filePath":"privacy.md"}'),i={name:"privacy.md"},r=t("",22),n=[r];function l(c,s,u,p,h,m){return e(),a("div",null,n)}const y=o(i,[["render",l]]);export{d as __pageData,y as default};
