@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!-- source for og-default.png; regenerate with:
+       rsvg-convert -w 1200 -h 630 public/og-default.svg -o public/og-default.png -->
+  <rect width="1200" height="630" fill="#f8f9fa"/>
+  <!-- soft brand wash, echoing the blurred blobs in BaseLayout -->
+  <circle cx="1080" cy="90" r="260" fill="#3e63dd" opacity="0.06"/>
+  <circle cx="120" cy="580" r="200" fill="#3e63dd" opacity="0.05"/>
+
+  <!-- the mark, same geometry as favicon.svg scaled 2x and placed -->
+  <g transform="translate(96 232)">
+    <rect width="128" height="128" rx="28" fill="#3e63dd"/>
+    <path fill="#ffffff" transform="scale(2)" d="M16 44V20h8l8 12 8-12h8v24h-7V31l-7 10h-4l-7-10v13z"/>
+  </g>
+
+  <text x="264" y="300" font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+        font-size="82" font-weight="700" letter-spacing="-3" fill="#0f172a">mirageglobe</text>
+  <text x="266" y="360" font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+        font-size="34" font-weight="400" fill="#475569">software engineering and cloud infrastructure</text>
+</svg>

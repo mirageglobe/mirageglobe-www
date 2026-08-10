@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="mirageglobe">
+  <!-- matches the nav mark in BaseLayout: prof-blue tile, white M -->
+  <rect width="64" height="64" rx="14" fill="#3e63dd"/>
+  <!-- M drawn as a path rather than text, so it does not depend on a font being present -->
+  <path fill="#ffffff" d="M16 44V20h8l8 12 8-12h8v24h-7V31l-7 10h-4l-7-10v13z"/>
+</svg>
