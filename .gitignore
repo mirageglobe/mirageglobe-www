@@ -1,2 +1,5 @@
 .DS_Store
 .claude/
+
+# the global ~/.gitignore ignores "tags" (ctags); this site needs its tags/ pages
+!tags/
